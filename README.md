@@ -2,7 +2,7 @@
 
 # Proof of work test
 
-A proof of work is a piece of data which is difficult (costly, time-consuming) to produce but easy for others to verify and which satisfies certain requirements [[1]] (https://en.bitcoin.it/wiki/Proof_of_work).  This test looks for the first _n_ bits with zero at the beginning of a sha256 hash generated with a random sequence.
+A proof of work is a piece of data which is difficult (costly, time-consuming) to produce but easy for others to verify and which satisfies certain requirements [[1]](https://en.bitcoin.it/wiki/Proof_of_work).  This test looks for the first _n_ bits with zero at the beginning of a sha256 hash generated with a random sequence.
 
 ## Results
 
